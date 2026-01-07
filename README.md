@@ -34,3 +34,4 @@ Overall, the E-Learning Platform UI project demonstrates the ability to design a
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/5651d3cb-e113-4108-8dd2-0201edcc4124)
